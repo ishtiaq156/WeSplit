@@ -1,0 +1,9 @@
+# User-specific Xcode settings
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+
+### IntelliJ IDEA ###
+.idea
+
+# macOS system files
+.DS_Store
